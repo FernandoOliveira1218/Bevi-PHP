@@ -1,2 +1,2 @@
 # Bevi-PHP
-Projeto Bevi para teste PHP.
+Projeto teste em PHP.
